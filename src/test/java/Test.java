@@ -1,5 +1,3 @@
-package java;
-
 /**
  * @author ljs
  * @date 2022-06-21
